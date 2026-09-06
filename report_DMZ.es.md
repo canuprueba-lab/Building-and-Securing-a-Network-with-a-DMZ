@@ -32,21 +32,8 @@ A su vez estas 3 redes estan controladas por swich capa 3 cada una:
 ### 3. Plan de direccionamiento IP
 
 
-| Dispositivo             | IP         | Máscara     | Gateway   |
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ceed949c-2c69-4c4f-a817-364a372409f6" />
 
-|-------------------------|------------|----- -------|-----------|
-
-| PC_Internal             |192.168.1.10|255.255.255.0|192.168.1.1|
-
-| Server_DMZ              |192.168.2.10|255.255.255.0|192.168.2.1|
-
-| PC_External             |192.168.3.10|255.255.255.0|192.168.3.1|
-
-| Router_FW Gi0/0 (LAN)   |192.168.1.1 |255.255.255.0|192.168.1.1|
-
-| Router_FW Gi0/1 (DMZ)   |192.168.2.1 |255.255.255.0|192.168.2.1|
-
-| Router_FW Gi0/2 (Ext)   |192.168.3.1 |255.255.255.0|192.168.3.1|
 
 
 ### 4. Configuración aplicada (resumen)
