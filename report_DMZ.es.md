@@ -33,6 +33,7 @@ A su vez estas 3 redes estan controladas por swich capa 3 cada una:
 
 
 | Dispositivo             | IP         | Máscara     | Gateway   |
+
 |-------------------------|------------|----- -------|-----------|
 
 | PC_Internal             |192.168.1.10|255.255.255.0|192.168.1.1|
