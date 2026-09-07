@@ -1,5 +1,5 @@
 <!-- hide -->
-# Building and Securing a Network with a DMZ
+# Construyendo y aplicando seguridad a una DMZ
 
 > By [canu](https://github.com/canuprueba-lab) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -7,12 +7,12 @@
 
 En este laboratori configuraremos diferentes medidas de seguridad a una infraestrucctura entregada
 
-- aislamiento fundamental para los servicios de la zona desmilitarizada (DMZ)
+- Aislamiento fundamental para los servicios de la zona desmilitarizada (DMZ)
 - Control de trafico listas de acceso
-- coniguracion segura de acceso al servidor web
-- configuracion segura del acceso NAT
+- Coniguracion segura de acceso al servidor web
+- Configuracion segura del acceso NAT
 
-## 📝 Prosedimiento
+## 📝 Procedimiento
 
 1. Inicialmente se configuro la infras estructura existenta con arreglos basicos de configuracion para probar conectividad, segun la sigueinta tabla de direcciones ip:
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d5e6ae47-0c11-461e-a72b-bfcc1dd20062" />
