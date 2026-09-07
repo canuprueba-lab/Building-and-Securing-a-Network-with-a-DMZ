@@ -1,7 +1,7 @@
 <!-- hide -->
 # Construyendo y aplicando seguridad a una DMZ
 
-> By [canu](https://github.com/canuprueba-lab) at [4Geeks Academy](https://4geeksacademy.co/)
+> Por [canu](https://github.com/canuprueba-lab) de [4Geeks Academy](https://4geeksacademy.co/)
 
 <!-- endhide -->
 
